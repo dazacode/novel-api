@@ -35,3 +35,4 @@ debug.log
 
 # Windows thumbnail cache
 Thumbs.db
+.vercel
